@@ -27,7 +27,7 @@ I'm a curious developer with a passion for exploring the realms of Artificial In
 - 🌱 I’m currently learning Electron, React Native, and Rust.
 - 👯 I’m looking to collaborate on AI/ML and full-stack projects.
 - 💬 Ask me about Python, AI frameworks, or web/mobile development.
-- 📫 Reach me at: [your.email@example.com](mailto:shreyasthale54@gmail.com)
+- 📫 Reach me at: [shreyasthale54@gmail.com](mailto:shreyasthale54@gmail.com)
 
 ---
 
