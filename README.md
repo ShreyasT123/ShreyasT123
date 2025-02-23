@@ -40,11 +40,12 @@ I'm a curious developer with a passion for exploring the realms of Artificial In
   <!-- Updated Hugging Face icon -->
   <img src="https://cdn.worldvectorlogo.com/logos/hugging-face-1.svg" title="Hugging Face" alt="Hugging Face" width="40" height="40" />&nbsp;
   <!-- Updated JAX icon -->
-  <img src="https://raw.githubusercontent.com/google/jax/main/docs/jax_logo.svg" title="JAX" alt="JAX" width="40" height="40" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fjax-ml%2Fjax&psig=AOvVaw22fqvFw0hoVVIJr7ASuvZp&ust=1740392111930000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKDWmf7H2YsDFQAAAAAdAAAAABAE" title="JAX" alt="JAX" width="40" height="40" />
 
   <br><br>
   <!-- Backend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" title="Django" alt="Django" width="40" height="40" />&nbsp;
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40" />&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40" />&nbsp;
   <!-- Updated FastAPI icon (PNG format) -->
   <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" title="FastAPI" alt="FastAPI" width="40" height="40" />
