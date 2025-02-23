@@ -74,13 +74,6 @@ I'm a curious developer with a passion for exploring the realms of Artificial In
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?ShreyasT123&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
----
 
 ### Connect with Me
 
