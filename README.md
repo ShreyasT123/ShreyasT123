@@ -37,11 +37,8 @@ I'm a curious developer with a passion for exploring the realms of Artificial In
   <!-- AI & ML -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40" />&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40" />&nbsp;
-  <!-- Updated Hugging Face icon -->
-  <img src="https://cdn.worldvectorlogo.com/logos/hugging-face-1.svg" title="Hugging Face" alt="Hugging Face" width="40" height="40" />&nbsp;
-  <!-- Updated JAX icon -->
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fjax-ml%2Fjax&psig=AOvVaw22fqvFw0hoVVIJr7ASuvZp&ust=1740392111930000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKDWmf7H2YsDFQAAAAAdAAAAABAE" title="JAX" alt="JAX" width="40" height="40" />
-
+<h1>Hugginface Transformers</h1>
+<h1>Jax</h1>
   <br><br>
   <!-- Backend -->
   
