@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt="Hi there!" />
-  <h1>Hi, I'm [Your Name] 👋</h1>
+  <h1>Hi, I'm Shreyas Thale 👋</h1>
   <p>
-    A passionate developer exploring cutting-edge technologies in AI, web, and mobile development.
+    A passionate student at <a href = "https://fcrit.ac.in/">FCRIT,Vashi</a>  exploring cutting-edge technologies in AI, web, and mobile development.
   </p>
 </div>
 
