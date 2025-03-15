@@ -35,8 +35,9 @@ I'm a curious developer with a passion for exploring the realms of Artificial In
 ### AI & ML
 - PyTorch
 - TensorFlow
-- Hugging Face Transformers
 - JAX
+- Hugging Face Transformers
+
 
 ### Backend
 - Django
@@ -49,21 +50,27 @@ I'm a curious developer with a passion for exploring the realms of Artificial In
 - Node.js
 - Next.js
 - Firebase
+- MERN
 - MongoDB
 - MySQL
+- NeonDB
+- Firebase
+- Supabase
+- Mongodb Atlas
+- Docker
+- Kubernetes
 
 ### Mobile & Desktop
 - Electron
 - React Native
-- PHP
 - Flutter
 - Android Studio
-
+- Ionic
 ### Other
 - Rust
-
-
-
+- PHP
+- Laravel
+- 
 ---
 
 
