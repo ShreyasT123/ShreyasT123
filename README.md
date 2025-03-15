@@ -32,45 +32,37 @@ I'm a curious developer with a passion for exploring the realms of Artificial In
 ---
 
 ### Tech Stack
+### AI & ML
+- PyTorch
+- TensorFlow
+- Hugging Face Transformers
+- JAX
 
-<div align="center">
-  <!-- AI & ML -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40" />&nbsp;
-<h1>Hugginface Transformers</h1>
-<h1>Jax</h1>
-  <br><br>
-  <!-- Backend -->
-  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40" />&nbsp;
-  <!-- Updated FastAPI icon (PNG format) -->
-  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" title="FastAPI" alt="FastAPI" width="40" height="40" />
+### Backend
+- Django
+- Flask
+- FastAPI
 
-  <br><br>
-  <!-- Full-Stack & Web -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next.js" alt="Next.js" width="40" height="40" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" title="Firebase" alt="Firebase" width="40" height="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40" />
+### Full-Stack & Web
+- JavaScript
+- React
+- Node.js
+- Next.js
+- Firebase
+- MongoDB
+- MySQL
 
-  <br><br>
-  <!-- Mobile & Desktop -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" title="Electron" alt="Electron" width="40" height="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React Native" alt="React Native" width="40" height="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40" />&nbsp;
-  <!-- Updated Android Studio icon -->
-  <img src="https://developer.android.com/studio/images/studio-icon.svg" title="Android Studio" alt="Android Studio" width="40" height="40" />
+### Mobile & Desktop
+- Electron
+- React Native
+- PHP
+- Flutter
+- Android Studio
 
-  <br><br>
-  <!-- Other -->
-  <!-- Updated Rust icon -->
-  <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" title="Rust" alt="Rust" width="40" height="40" />
-</div>
+### Other
+- Rust
+
+
 
 ---
 
