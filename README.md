@@ -56,14 +56,12 @@ I'm a curious developer with a passion for exploring the realms of Artificial In
 - Supabase
 - Mongodb Atlas
 - Docker
-- Kubernetes
+
 
 ### Mobile & Desktop
-- Electron
 - React Native
 - Flutter
 - Android Studio
-- Ionic
 ### Other
 - Rust
 - PHP
