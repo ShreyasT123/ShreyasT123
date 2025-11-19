@@ -29,7 +29,7 @@ I'm a curious and driven developer passionate about:
 - 🌱 **Currently Learning**:  
   - Mobile development: React Native, Flutter, Android Studio  
   - Game dev & 3D/VFX: Unity, Unreal Engine, Blender, Maya, Reaper  
-  - Systems: Rust, Docker, Kubernetes  
+  - Systems: Rust, Docker
  
 - 📫 **Reach me at**: [shreyasthale54@gmail.com](mailto:shreyasthale54@gmail.com)
 
@@ -39,14 +39,14 @@ I'm a curious and driven developer passionate about:
 
 #### 🧠 AI / ML
 - PyTorch, TensorFlow, JAX, Hugging Face
-- Scikit-Learn, Ray, Optuna, XFormers, FastAI
+- Scikit-Learn, Ray, Optuna, XFormers
 - Transformers,Diffusers
-- Apache Spark, Apache Kafka    
+- Apache Spark    
 
 #### 🌐 Web Development
-- JavaScript, React, Next.js, SvelteKit
-- Tailwind CSS, ShadCN, Plotly.js
-- Node.js, Express, MongoDB, MySQL, Firebase, Supabase
+- JavaScript, React, Next.js
+- Tailwind CSS
+- Node.js, Express, MongoDB, MySQL, Firebase
 - Django, Flask, FastAPI 
 
 ---
@@ -58,7 +58,6 @@ I'm a curious and driven developer passionate about:
 - Flutter
 - Flutterflow
 - Android Studio & Jetpack Compose  
-- Ionic + Capacitor
 
 #### 🎮 Game Development & VFX
 - Unity, Unreal Engine, Godot  
@@ -67,7 +66,7 @@ I'm a curious and driven developer passionate about:
 - Reaper (for music production audio editing)
 
 #### ⚙️ DevOps & Systems
-- Docker & Kubernetes  
+- Docker
 - Rust programming 
 
 ---
