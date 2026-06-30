@@ -48,6 +48,53 @@ Currently building:
 - 🫘 **Jellybean** — a high-performance C++ ML inference runtime with custom schedulers, memory allocators, and CI/CD automation
 - 📄 Multi-agent research systems using RAG and LLM workflows
 
+# Currently Exploring
+
+Jellybean is part of my exploration into high-performance computing, AI infrastructure, and systems engineering.
+
+Currently learning and experimenting with:
+
+## 📱 Mobile Development
+
+- React Native
+- Flutter
+- Android development
+- Cross-platform application architectures
+
+
+## 🦀 Systems Programming
+
+- Rust programming language
+- Memory-safe systems design
+- Low-level performance optimization
+- Runtime and compiler internals
+
+
+## ⚡ High Performance Computing
+
+- CUDA programming
+- GPU acceleration
+- Parallel computing architectures
+- Optimizing AI workloads for specialized hardware
+
+
+## 📈 Quantitative Systems & FinTech
+
+- High-frequency trading (HFT) concepts
+- Low-latency system design
+- Market data pipelines
+- Algorithmic trading infrastructure
+- Performance-critical software engineering
+
+
+## 🤖 AI Infrastructure
+
+- Large Language Model systems
+- Agentic AI architectures
+- Distributed inference systems
+- ML compiler/runtime optimization
+- Efficient model serving
+
 
 ## 🛠️ Technical Skills
 
