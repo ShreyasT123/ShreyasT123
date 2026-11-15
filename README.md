@@ -161,7 +161,7 @@ focus_2026:
 </table>
 
 <details>
-<summary><b>⚡ Expand Technical Deep-Dive: ML Compiler & Hardware Optimization Benchmarks</b></summary>
+<summary><b>⚡ Expand Technical Deep-Dive: ML Compiler &amp; Hardware Optimization Benchmarks</b></summary>
 <br/>
 Benchmarked identical Transformer decoder blocks &amp; ResNet50 across <b>PyTorch</b>, <b>TensorFlow</b>, and <b>JAX</b> on NVIDIA GPUs and Google TPUs to evaluate compiler-level gains over eager execution:
 <ul>
@@ -228,25 +228,41 @@ Benchmarked identical Transformer decoder blocks &amp; ResNet50 across <b>PyTorc
 <div align="center">
   <table>
     <tr>
-      <td width="52%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=ShreyasT123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38BDF8&icon_color=818CF8&text_color=CBD5E1" width="100%" alt="Shreyas GitHub Stats" />
-      </td>
-      <td width="48%" align="center">
-        <img src="https://streak-stats.demolab.com?user=ShreyasT123&theme=tokyonight&hide_border=true&background=00000000&ring=38BDF8&fire=818CF8&currStreakLabel=38BDF8" width="100%" alt="Shreyas GitHub Streak" />
+      <td colspan="2" align="center">
+        <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="Profile Details & Activity" />
       </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShreyasT123&theme=tokyo-night&hide_border=true&bg_color=00000000&color=CBD5E1&line=38BDF8&point=818CF8&area=true" width="100%" alt="Activity Graph" />
+      <td width="50%" align="center">
+        <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="100%" alt="GitHub Stats" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://streak-stats.demolab.com?user=ShreyasT123&theme=tokyonight&hide_border=true&background=00000000&ring=38BDF8&fire=818CF8&currStreakLabel=38BDF8" width="100%" alt="GitHub Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="100%" alt="Top Commit Languages" />
+      </td>
+      <td width="50%" align="center">
+        <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="100%" alt="Productive Time (IST)" />
       </td>
     </tr>
   </table>
 </div>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShreyasT123/ShreyasT123/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShreyasT123/ShreyasT123/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ShreyasT123/ShreyasT123/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</picture>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShreyasT123/ShreyasT123/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShreyasT123/ShreyasT123/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/ShreyasT123/ShreyasT123/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
+<br/>
+
 <!-- FOOTER BANNER -->
 <div align="center">
   <p><sub>Always open to collaborating on AI infrastructure, developer tools, and high-performance systems — <a href="mailto:shreyasthale54@gmail.com">let's talk</a>.</sub></p>
