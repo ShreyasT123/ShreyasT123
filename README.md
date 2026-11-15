@@ -1,218 +1,141 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt="Hi there!" />
+# Hi, I'm Shreyas Thale
 
-  <h1>Hi, I'm Shreyas Thale 👋</h1>
+**Computer Engineering @ FCRIT '27**
 
-  <p>
-    Computer Engineering student at 
-    <a href="https://fcrit.ac.in/">FCRIT, Vashi</a>
-    building AI systems, backend infrastructure, and developer tools.
-  </p>
+AI Systems · ML Engineering · Systems Programming · Quantitative Software
 
-  <p>
-    Interested in Machine Learning Engineering, AI Agents, Backend Systems,
-    and scalable software architectures.
-  </p>
-</div>
+I build software that connects intelligent models with reliable, performant systems — from agentic workflows and ML infrastructure to GPU-powered desktop applications.
 
+[LinkedIn](https://www.linkedin.com/in/shreyas-thale/) · [GitHub](https://github.com/ShreyasT123) · [Medium](https://medium.com/@shreyasthale54) · [Email](mailto:shreyasthale54@gmail.com)
 
-<div align="center">
+---
 
-<a href="https://www.linkedin.com/in/shreyas-thale/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+## About
 
-<a href="https://github.com/ShreyasT123">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+I'm a final-year Computer Engineering student at **Fr. Conceicao Rodrigues Institute of Technology (FCRIT), graduating in 2027**. I enjoy working at the intersection of applied AI and systems engineering: taking ideas from research or prototypes and turning them into software that is useful, measurable, and dependable.
 
-</div>
+My experience spans software engineering in fintech, machine-learning research at **IIT Bombay**, and independent projects in agentic AI, inference systems, and graphics programming. I care about the engineering underneath the interface — data pipelines, execution, memory, concurrency, model serving, and performance.
 
+### Areas I work on
 
-## 👨‍💻 About Me
+- **AI and ML systems:** LLM applications, agentic workflows, retrieval-augmented generation, model evaluation, and inference optimization.
+- **Systems and performance:** Rust, C++, concurrency, memory management, GPU compute, and runtime design.
+- **Quantitative software:** Options data pipelines, backtesting, trade simulation, and performance-conscious financial applications.
+- **Backend and developer infrastructure:** APIs, databases, automation, containerized workflows, and CI/CD.
 
-I'm a Computer Engineering student focused on building intelligent and reliable software systems.
+## Selected Projects
 
-My interests include:
+### [Halation](https://github.com/ShreyasT123/halation) — Local-first photo editor in Rust
 
-🧠 Artificial Intelligence & Machine Learning  
-🤖 LLM Applications and Agentic AI Systems  
-⚙️ Backend Engineering & Distributed Systems  
-🚀 ML Infrastructure and Developer Tools  
-📊 Data-intensive Applications  
+An early-stage, Windows-focused desktop photo editor built to understand how creative software works below the UI layer.
 
+- Built with **Rust, Iced, wgpu, and Rayon**.
+- Implements a local photo catalog, non-destructive editing, branching edit history, XMP sidecars, and batch export workflows.
+- Uses a GPU image-processing path with CPU fallback; optional local subject masking is powered by MobileSAM through ONNX Runtime.
+- Focuses on the core photography workflow: culling, color grading, editing, and export.
 
-Currently building:
+[Read the technical write-up](https://medium.com/@shreyasthale54/building-a-lighroom-clone-ditching-adobe-in-rust-ea95c8598909)
 
-- 🍣 **SUSHI** — an autonomous AI software engineering agent using LangGraph and DeepAgents
-- 🫘 **Jellybean** — a high-performance C++ ML inference runtime with custom schedulers, memory allocators, and CI/CD automation
-- 📄 Multi-agent research systems using RAG and LLM workflows
+### SUSHI — Agentic software engineering agent
 
-# Currently Exploring
+An autonomous software engineering agent built around **LangGraph and DeepAgents**. The intended workflow covers repository analysis, code generation, refactoring, and automated verification through multi-agent reasoning.
 
-Jellybean is part of my exploration into high-performance computing, AI infrastructure, and systems engineering.
+### Jellybean — C++ ML inference runtime
 
-Currently learning and experimenting with:
+A systems project exploring the runtime side of machine learning inference.
 
-## 📱 Mobile Development
+- C++ runtime with a LibTorch backend.
+- Experiments with custom schedulers, lock-free data structures, and memory allocators.
+- Includes Docker-based workflows and CI/CD automation.
 
-- React Native
-- Flutter
-- Android development
-- Cross-platform application architectures
+### MARS — Multi-Agent Review System
 
+A team-built research-paper triage and review assistant; our team was selected as a finalist at the **AWS Impact X Challenge at IIT Bombay**.
 
-## 🦀 Systems Programming
+- Uses Amazon Bedrock as the orchestration layer for specialized model workflows.
+- Splits review tasks across agents for scope and novelty, methodology and reproducibility, and plagiarism or semantic-similarity analysis.
+- Consolidates agent outputs into an evidence-backed summary while keeping the final decision with the human reviewer.
 
-- Rust programming language
-- Memory-safe systems design
-- Low-level performance optimization
-- Runtime and compiler internals
+### [SuperPOS](https://github.com/ShreyasT123/SuperPos) — Quantum learning platform
 
+An interactive web-based quantum simulator with real-time 2D and 3D circuit visualizations. The project combines Python, Flask, Cirq, and Three.js to make quantum circuit experimentation more accessible.
 
-## ⚡ High Performance Computing
+[Open the project](https://github.com/ShreyasT123/SuperPos) · [Live demo](https://super-pos-beta.vercel.app)
 
-- CUDA programming
-- GPU acceleration
-- Parallel computing architectures
-- Optimizing AI workloads for specialized hardware
+## Experience
 
+### Software Engineer Intern · InfinityPool Finnotech
 
-## 📈 Quantitative Systems & FinTech
+**June 2025 – Present** · Navi Mumbai, India
 
-- High-frequency trading (HFT) concepts
-- Low-latency system design
-- Market data pipelines
-- Algorithmic trading infrastructure
-- Performance-critical software engineering
+Working on an options strategy engine for analyzing and backtesting trading strategies using market data.
 
+- Process options-chain data with Python and Pandas.
+- Build backtesting and trade-simulation workflows for spread and volatility-based strategies.
+- Develop internal tools and interactive strategy visualizations using Next.js and Plotly.
+- Work across software engineering, financial data analysis, and quantitative trading concepts.
 
-## 🤖 AI Infrastructure
+### Machine Learning Intern · IIT Bombay, WaVE Lab
 
-- Large Language Model systems
-- Agentic AI architectures
-- Distributed inference systems
-- ML compiler/runtime optimization
-- Efficient model serving
+**June 2025 – July 2025**
 
+Worked on vibration-based predictive maintenance and bearing fault detection for rotating machinery.
 
-## 🛠️ Technical Skills
+- Developed statistical-feature and machine-learning workflows for identifying bearing faults from vibration signals.
+- Applied signal decomposition techniques, including EMD/MEMD, to reduce noise and expose fault signatures.
+- Evaluated model behavior across operating conditions such as load and RPM.
+- Explored Physics-Informed Neural Networks and statistical signal-processing approaches for industrial fault detection.
 
+### Technical Head · Artificial Intelligence and Deep Learning Club, FCRIT
 
-### 🧠 AI / Machine Learning
+**June 2025 – June 2026**
 
-- PyTorch
-- TensorFlow
-- Hugging Face Transformers
-- Scikit-Learn
-- LangGraph
-- DeepAgents
-- RAG Systems
-- Multi-Agent Systems
-- NLP
-- Computer Vision
+Led technical initiatives and supported the execution of workshops, hackathons, registrations, and other club activities.
 
+## Research & Publications
 
-### ⚙️ Backend & Systems
+**SuperPOS: An Interactive Web-Based Quantum Simulator with Real-Time 2D and 3D Visualizations**  
+*2024 9th International Conference on Communication and Electronics Systems (ICCES), December 2024.*
 
-- Python
-- C++
-- Java
-- Django
-- FastAPI
-- Flask
-- REST APIs
-- PostgreSQL
-- TimescaleDB
-- MongoDB
-- Linux
+The work presents a web-based quantum simulator for building and simulating circuits with immediate feedback and interactive 2D/3D visualizations.
 
+[Project repository](https://github.com/ShreyasT123/SuperPos)
 
-### 🌐 Full Stack Development
+## Technical Toolkit
 
-- JavaScript
-- TypeScript
-- React
-- Next.js
-- Angular
-- Node.js
-- Tailwind CSS
+I use different parts of this stack depending on the problem; this is a working toolkit, not a claim of equal depth across every technology.
 
+| Area | Technologies |
+|---|---|
+| **Languages** | Rust, C++, Python, Java, TypeScript, JavaScript |
+| **AI / ML** | PyTorch, TensorFlow, Hugging Face Transformers, scikit-learn, LangChain, LangGraph, DeepAgents, RAG, ONNX Runtime |
+| **Systems / Graphics** | wgpu, Iced, Rayon, SQLite, CMake, Linux |
+| **Backend / Data** | FastAPI, Flask, Django, Node.js, React, Next.js, PostgreSQL, TimescaleDB, MongoDB |
+| **Engineering / DevOps** | Docker, Git, GitHub Actions, CI/CD, shell scripting, Azure, AWS |
 
-### 🚀 DevOps & Cloud
+## Currently Exploring
 
-- Docker
-- Git
-- GitHub Actions
-- CI/CD Pipelines
-- Azure
-- AWS Fundamentals
-- CMake
-- Shell Scripting
+- Compiler-aware ML optimization, inference performance, and model serving.
+- Distributed training and AI infrastructure, including Ray and Kubernetes.
+- GPU programming, CUDA, parallel computing, and hardware-aware execution.
+- Probabilistic modeling, quantitative systems, and low-latency software design.
+- Memory-safe systems programming and runtime internals in Rust and C++.
 
+## Writing
 
-## 📌 Featured Projects
+- [Building a Lightroom Clone: Ditching Adobe in Rust](https://medium.com/@shreyasthale54/building-a-lighroom-clone-ditching-adobe-in-rust-ea95c8598909)
+- [More writing on Medium](https://medium.com/@shreyasthale54)
 
+## Contact
 
-### 🍣 SUSHI — Autonomous Code Engineer
+- **Email:** [shreyasthale54@gmail.com](mailto:shreyasthale54@gmail.com)
+- **LinkedIn:** [linkedin.com/in/shreyas-thale](https://www.linkedin.com/in/shreyas-thale/)
+- **GitHub:** [github.com/ShreyasT123](https://github.com/ShreyasT123)
+- **Medium:** [medium.com/@shreyasthale54](https://medium.com/@shreyasthale54)
 
-AI-powered software engineering agent capable of:
-
-- repository analysis
-- code generation
-- refactoring
-- automated verification
-- multi-agent reasoning workflows
-
-
-### 🫘 Jellybean — ML Inference Runtime
-
-High-performance C++ inference runtime featuring:
-
-- custom schedulers
-- lock-free data structures
-- memory allocators
-- LibTorch backend
-- Docker-based deployment
-- automated CI/CD workflows
-
-
-### 📄 Agentic Research Paper Review System
-
-Multi-agent AI system for:
-
-- research paper analysis
-- summarization
-- citation extraction
-- RAG-based technical reviews
-
-
-## 📚 Research
-
-Published:
-
-**SuperPos: An Interactive Web-Based Quantum Simulator with Real-Time 2D and 3D Visualizations**
-
-IEEE ICCES 2024
-
-
-## 🌱 Currently Exploring
-
-- Advanced LLM Agents
-- AI Infrastructure
-- Distributed Systems
-- High-performance computing
-- Cloud-native architectures
-
-
-## 📫 Contact
-
-Email: shreyasthale54@gmail.com
-
+---
 
 <div align="center">
-
-Thanks for visiting!  
-Always interested in collaborating on AI systems, developer tools, and impactful software.
-
+  <p>Thanks for stopping by.</p>
+  <p><em>Interested in building intelligent systems, performance-focused software, and useful developer tools.</em></p>
 </div>
