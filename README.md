@@ -215,10 +215,7 @@ Benchmarked identical Transformer decoder blocks &amp; ResNet50 across <b>PyTorc
 ## ✍️ Writing & Notes
 
 <!-- BLOG-POST-LIST:START -->
-- 📝 **[Building a Lightroom Clone: Ditching Adobe in Rust](https://medium.com/@shreyasthale54/building-a-lighroom-clone-ditching-adobe-in-rust-ea95c8598909)** — *Exploring WGPU shaders, non-destructive edit pipelines, and Rust systems architecture.*
-- ⚡ **Beyond Mixed Precision: Why Modern AI Runs on Compiler & Hardware Optimizations** — *Benchmarking Triton, TensorRT, and XLA across GPUs and TPUs.*
-- 🚀 **The ML Deployment Stack Beyond `torch.load()` + FastAPI** — *ONNX Runtime, NVIDIA Triton dynamic batching, vLLM PagedAttention, and quantization.*
-- 📉 **Why Time-Series Models Still Fail at Algorithmic Trading** — *Non-stationarity, concept drift, tail risk, and volatility/regime modeling.*
+- [Building a Lighroom Clone: Ditching Adobe in Rust](https://medium.com/@shreyasthale54/building-a-lighroom-clone-ditching-adobe-in-rust-ea95c8598909?source=rss-09746a879064------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
